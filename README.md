@@ -1,4 +1,4 @@
-# 🌿 SabzCredit — O'zbekiston Karbon Kredit Platformasi
+# 🌿 CarbonVision— O'zbekiston Karbon Kredit Platformasi
 
 ## Loyiha haqida
 
