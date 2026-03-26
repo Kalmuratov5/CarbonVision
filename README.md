@@ -9,7 +9,7 @@ G'arbda Tesla milliardlab dollar ishlatayotgan karbon kredit tizimini O'zbekisto
 ## Arxitektura
 
 ```
-sabzcredit/
+CarbonVision/
 ├── backend/          # Node.js + Express API
 │   ├── server.js     # Barcha API endpointlar
 │   └── package.json
